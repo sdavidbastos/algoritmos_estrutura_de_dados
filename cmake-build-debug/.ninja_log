@@ -1,0 +1,6 @@
+# ninja log v5
+3	110	7311194004434128	CMakeFiles/algoritmos_estrutura_de_dados.dir/main.cpp.obj	de815245fb14e2dc
+111	219	7311194005501282	algoritmos_estrutura_de_dados.exe	e267120661f8a185
+16	450	7320764586085032	build.ninja	90f7cffe460f371d
+0	352	7320764590485014	CMakeFiles/algoritmos_estrutura_de_dados.dir/array-adt/main.cpp.obj	2da0a8d31e61c9f7
+353	586	7320764592798825	algoritmos_estrutura_de_dados.exe	9275d31cd8bbae6e
